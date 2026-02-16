@@ -1,11 +1,16 @@
 html {
   font-size: 20px;
   font-family: 'Quantico', sans-serif;
+  background-color: #eb9107;
 }
 
 h1 {
   font-size: 70px;
   text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #ab648f;
+  text-shadow: 6px 1px 0px black;
 }
 
 h2 {
@@ -19,10 +24,6 @@ p, li {
   letter-spacing: 1px;
 }
 
-html {
-  background-color: #eb9107;
-}
-
 body {
   width: 700px;
   margin: 0 auto;
@@ -31,14 +32,8 @@ body {
   border: 6px solid black;
 }
 
-h1 {
-  margin: 0;
-  padding: 20px 0;
-  color: #ff006e;
-  text-shadow: 4px 4px 2px black;
-}
-
 img {
   display: block;
   margin: 0 auto;
+  width: 100%;
 }
